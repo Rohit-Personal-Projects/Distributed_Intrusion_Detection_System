@@ -1,0 +1,6 @@
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS Server\USB Lock\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS Server\USB Lock\obj\Debug\USB_Policy.frmPasswordCheck.resources
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS Server\USB Lock\obj\Debug\USB_Policy.frmPassword.resources
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS Server\USB Lock\obj\Debug\USB_Policy.frmMain.resources
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS Server\USB Lock\obj\Debug\USB_Policy.Properties.Resources.resources
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS Server\USB Lock\obj\Debug\USB Policy.csproj.GenerateResource.Cache

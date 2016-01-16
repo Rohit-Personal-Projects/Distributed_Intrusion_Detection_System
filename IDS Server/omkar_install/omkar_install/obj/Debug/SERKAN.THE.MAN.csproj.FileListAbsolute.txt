@@ -1,0 +1,16 @@
+C:\Documents and Settings\OMKAR\Desktop\SERKAN.THE_.MAN_\SERKAN.THE.MAN\bin\Debug\SERKAN.THE.MAN.exe
+C:\Documents and Settings\OMKAR\Desktop\SERKAN.THE_.MAN_\SERKAN.THE.MAN\bin\Debug\SERKAN.THE.MAN.pdb
+C:\Documents and Settings\OMKAR\Desktop\SERKAN.THE_.MAN_\SERKAN.THE.MAN\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\OMKAR\Desktop\SERKAN.THE_.MAN_\SERKAN.THE.MAN\obj\Debug\SERKAN.THE.MAN.Form1.resources
+C:\Documents and Settings\OMKAR\Desktop\SERKAN.THE_.MAN_\SERKAN.THE.MAN\obj\Debug\SERKAN.THE.MAN.Properties.Resources.resources
+C:\Documents and Settings\OMKAR\Desktop\SERKAN.THE_.MAN_\SERKAN.THE.MAN\obj\Debug\SERKAN.THE.MAN.csproj.GenerateResource.Cache
+C:\Documents and Settings\OMKAR\Desktop\SERKAN.THE_.MAN_\SERKAN.THE.MAN\obj\Debug\SERKAN.THE.MAN.exe
+C:\Documents and Settings\OMKAR\Desktop\SERKAN.THE_.MAN_\SERKAN.THE.MAN\obj\Debug\SERKAN.THE.MAN.pdb
+C:\IDS final\IDS Server\SERKAN.THE_.MAN_\SERKAN.THE.MAN\bin\Debug\SERKAN.THE.MAN.exe
+C:\IDS final\IDS Server\SERKAN.THE_.MAN_\SERKAN.THE.MAN\bin\Debug\SERKAN.THE.MAN.pdb
+C:\IDS final\IDS Server\SERKAN.THE_.MAN_\SERKAN.THE.MAN\obj\Debug\ResolveAssemblyReference.cache
+C:\IDS final\IDS Server\SERKAN.THE_.MAN_\SERKAN.THE.MAN\obj\Debug\SERKAN.THE.MAN.Form1.resources
+C:\IDS final\IDS Server\SERKAN.THE_.MAN_\SERKAN.THE.MAN\obj\Debug\SERKAN.THE.MAN.Properties.Resources.resources
+C:\IDS final\IDS Server\SERKAN.THE_.MAN_\SERKAN.THE.MAN\obj\Debug\SERKAN.THE.MAN.csproj.GenerateResource.Cache
+C:\IDS final\IDS Server\SERKAN.THE_.MAN_\SERKAN.THE.MAN\obj\Debug\SERKAN.THE.MAN.exe
+C:\IDS final\IDS Server\SERKAN.THE_.MAN_\SERKAN.THE.MAN\obj\Debug\SERKAN.THE.MAN.pdb

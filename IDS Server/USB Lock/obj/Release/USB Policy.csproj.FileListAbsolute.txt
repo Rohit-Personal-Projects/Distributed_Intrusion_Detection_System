@@ -1,0 +1,15 @@
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\obj\Release\USB_Policy.frmPasswordCheck.resources
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\obj\Release\USB_Policy.frmPassword.resources
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\obj\Release\USB_Policy.frmMain.resources
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\obj\Release\USB_Policy.Properties.Resources.resources
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\obj\Release\USB Policy.csproj.GenerateResource.Cache
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\bin\Release\USB_Policy.exe.manifest
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\bin\Release\USB_Policy.application
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\bin\Release\USB_Policy.exe
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\bin\Release\USB_Policy.pdb
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\obj\Release\USB_Policy.TrustInfo.xml
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\obj\Release\USB_Policy.exe.manifest
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\obj\Release\USB_Policy.application
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\obj\Release\USB_Policy.exe
+C:\Documents and Settings\OMKAR\Desktop\IDS\USB Lock\obj\Release\USB_Policy.pdb

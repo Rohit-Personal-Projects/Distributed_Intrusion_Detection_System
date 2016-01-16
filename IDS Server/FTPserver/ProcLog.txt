@@ -1,0 +1,190 @@
+
+Log Entry : 5:48:32 PM Thursday, May 03, 2012
+  :
+  :Process Name:vmware-authd
+-------------------------------
+
+Log Entry : 5:48:32 PM Thursday, May 03, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 5:48:38 PM Thursday, May 03, 2012
+  :
+  :Process Name:TNSLSNR
+-------------------------------
+
+Log Entry : 5:48:38 PM Thursday, May 03, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 5:48:43 PM Thursday, May 03, 2012
+  :
+  :Process Name:svchost
+-------------------------------
+
+Log Entry : 5:48:43 PM Thursday, May 03, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 4:33:40 PM Friday, May 04, 2012
+  :
+  :Process Name:ctfmon
+-------------------------------
+
+Log Entry : 4:33:41 PM Friday, May 04, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 4:33:49 PM Friday, May 04, 2012
+  :
+  :Process Name:PandoraService
+-------------------------------
+
+Log Entry : 4:33:49 PM Friday, May 04, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 4:33:52 PM Friday, May 04, 2012
+  :
+  :Process Name:sqlbrowser
+-------------------------------
+
+Log Entry : 4:33:52 PM Friday, May 04, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 4:42:03 PM Friday, May 04, 2012
+  :
+  :Process Name:sqlagent
+-------------------------------
+
+Log Entry : 4:42:03 PM Friday, May 04, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 4:43:48 PM Friday, May 04, 2012
+  :
+  :Process Name:sqlservr
+-------------------------------
+
+Log Entry : 4:43:48 PM Friday, May 04, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 4:44:37 PM Friday, May 04, 2012
+  :
+  :Process Name:sqlservr
+-------------------------------
+
+Log Entry : 4:44:37 PM Friday, May 04, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 4:51:19 PM Friday, May 04, 2012
+  :
+  :Process Name:sqlservr
+-------------------------------
+
+Log Entry : 4:51:19 PM Friday, May 04, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 4:52:40 PM Friday, May 04, 2012
+  :
+  :Process Name:sqlservr
+-------------------------------
+
+Log Entry : 4:52:40 PM Friday, May 04, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 5:53:52 PM Friday, May 04, 2012
+  :
+  :Process Name:Apache
+-------------------------------
+
+Log Entry : 5:53:52 PM Friday, May 04, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 5:54:00 PM Friday, May 04, 2012
+  :
+  :Process Name:YahooAUService
+-------------------------------
+
+Log Entry : 5:54:00 PM Friday, May 04, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 6:40:29 PM Friday, May 04, 2012
+  :
+  :Process Name:sidebar
+-------------------------------
+
+Log Entry : 6:40:29 PM Friday, May 04, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 6:41:16 PM Friday, May 04, 2012
+  :
+  :Process Name:svchost
+-------------------------------
+
+Log Entry : 6:41:16 PM Friday, May 04, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 9:43:00 AM Saturday, May 05, 2012
+  :
+  :Process Name:TuneUpUtilitiesApp64
+-------------------------------
+
+Log Entry : 9:43:00 AM Saturday, May 05, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 1:57:51 PM Saturday, May 05, 2012
+  :
+  :Process Name:TuneUpUtilitiesApp64
+-------------------------------
+
+Log Entry : 1:57:51 PM Saturday, May 05, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 1:58:00 PM Saturday, May 05, 2012
+  :
+  :Process Name:explorer
+-------------------------------
+
+Log Entry : 1:58:00 PM Saturday, May 05, 2012
+  :
+  :Process is killed successfully
+-------------------------------
+
+Log Entry : 1:58:33 PM Saturday, May 05, 2012
+  :
+  :Process Name:TuneUpUtilitiesApp64
+-------------------------------
+
+Log Entry : 1:58:33 PM Saturday, May 05, 2012
+  :
+  :Process is killed successfully
+-------------------------------

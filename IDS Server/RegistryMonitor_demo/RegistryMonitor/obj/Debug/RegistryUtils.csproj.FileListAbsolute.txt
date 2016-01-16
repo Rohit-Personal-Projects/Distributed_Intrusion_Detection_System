@@ -1,0 +1,24 @@
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitor\bin\Debug\RegistryUtils.dll
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitor\bin\Debug\RegistryUtils.pdb
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitor\bin\Debug\RegistryUtils.xml
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitor\obj\Debug\RegistryUtils.dll
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitor\obj\Debug\RegistryUtils.pdb
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\bin\Debug\RegistryUtils.dll
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\bin\Debug\RegistryUtils.pdb
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\bin\Debug\RegistryUtils.xml
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\obj\Debug\RegistryUtils.dll
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\obj\Debug\RegistryUtils.pdb
+C:\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\bin\Debug\RegistryUtils.dll
+C:\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\bin\Debug\RegistryUtils.pdb
+C:\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\bin\Debug\RegistryUtils.xml
+C:\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\obj\Debug\ResolveAssemblyReference.cache
+C:\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\obj\Debug\RegistryUtils.dll
+C:\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\obj\Debug\RegistryUtils.pdb
+E:\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\bin\Debug\RegistryUtils.dll
+E:\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\bin\Debug\RegistryUtils.pdb
+E:\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\bin\Debug\RegistryUtils.xml
+E:\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\obj\Debug\ResolveAssemblyReference.cache
+E:\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\obj\Debug\RegistryUtils.dll
+E:\IDS final\IDS Server\RegistryMonitor_demo\RegistryMonitor\obj\Debug\RegistryUtils.pdb

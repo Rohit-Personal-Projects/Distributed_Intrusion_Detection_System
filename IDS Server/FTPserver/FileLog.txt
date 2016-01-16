@@ -1,0 +1,268 @@
+THE following Softwares are installed on the Computer
+
+
+Pandora Service
+Windows Driver Package - Nokia pccsmcfd  (08/22/2008 7.0.0.0)
+Adobe AIR
+Adobe Flash Player 10 ActiveX
+Adobe Flash Player 10 Plugin
+avast! Free Antivirus
+Babylon toolbar
+ChatSend Toolbar
+Adobe Community Help
+Adobe Download Assistant
+Adobe Widget Browser
+Dia (remove only)
+EASEUS Partition Master 8.0.1 Home Edition
+firstobject XML Editor version 2.4.1
+Flipping PDF Reader version 1.0.0
+GameSpy Arcade
+Guru's GRE Wordlist 0.2
+HP Imaging Device Functions 13.0
+HP Print Projects 1.0
+HP Smart Web Printing 4.5
+HP Solution Center 13.0
+HP Customer Participation Program 13.0
+Windows Internet Explorer 8
+Microsoft Internet Explorer Administration Kit 5
+Oracle Database 10g Express Edition
+JCreator LE 4.50
+Jpcap
+Security Update for Windows XP (KB2229593)
+Windows XP Hotfix - KB885884
+High Definition Audio Driver Package - KB888111
+Windows Installer 3.1 (KB893803)
+Security Update for Windows XP (KB923561)
+Update for Windows XP (KB925720)
+Update for Windows XP (KB932823-v3)
+Hotfix for Windows XP (KB935448)
+Security Update for Windows XP (KB939373)
+Security Update for Windows XP (KB942830)
+Security Update for Windows XP (KB942831)
+Security Update for Windows XP (KB944338-v2)
+Security Update for Windows XP (KB946648)
+Security Update for Windows XP (KB950762)
+Security Update for Windows XP (KB950974)
+Security Update for Windows XP (KB951066)
+Security Update for Windows XP (KB951376-v2)
+Security Update for Windows XP (KB951748)
+Security Update for Windows XP (KB952004)
+Windows Feature Pack for Storage (32-bit) - IMAPI update for Blu-Ray
+Hotfix for Windows XP (KB952287)
+Security Update for Windows XP (KB952954)
+Security Update for Windows XP (KB953155)
+Hotfix for Windows XP (KB954550-v5)
+Security Update for Windows XP (KB955069)
+Update for Windows XP (KB955759)
+Security Update for Windows XP (KB956572)
+Security Update for Windows XP (KB956802)
+Security Update for Windows XP (KB956803)
+Security Update for Windows XP (KB956844)
+Security Update for Windows XP (KB958470)
+Security Update for Windows XP (KB958644)
+Security Update for Windows XP (KB958869)
+Security Update for Windows XP (KB959426)
+Security Update for Windows XP (KB960225)
+Security Update for Windows XP (KB960803)
+Security Update for Windows XP (KB960859)
+Hotfix for Windows XP (KB961118)
+Security Update for Windows XP (KB961501)
+Update for Windows XP (KB967715)
+Update for Windows XP (KB968389)
+Security Update for Windows XP (KB969059)
+Security Update for Windows XP (KB969947)
+Security Update for Windows XP (KB970238)
+Security Update for Windows XP (KB970430)
+Security Update for Windows XP (KB970483)
+Security Update for Windows XP (KB971032)
+Security Update for Windows XP (KB971468)
+Security Update for Windows XP (KB971657)
+Update for Windows XP (KB971737)
+Security Update for Windows XP (KB971961)
+Security Update for Windows Internet Explorer 8 (KB971961)
+Security Update for Windows XP (KB972270)
+Security Update for Windows XP (KB973354)
+Security Update for Windows XP (KB973507)
+Update for Windows XP (KB973687)
+Update for Windows XP (KB973815)
+Security Update for Windows XP (KB973869)
+Security Update for Windows XP (KB973904)
+Security Update for Windows XP (KB974112)
+Security Update for Windows XP (KB974318)
+Security Update for Windows XP (KB974392)
+Security Update for Windows XP (KB974571)
+Security Update for Windows XP (KB975025)
+Security Update for Windows XP (KB975254)
+Security Update for Windows XP (KB975467)
+Security Update for Windows XP (KB975560)
+Security Update for Windows XP (KB975561)
+Security Update for Windows XP (KB975562)
+Security Update for Windows XP (KB976323)
+Update for Windows Internet Explorer 8 (KB976662)
+Security Update for Windows XP (KB977816)
+Security Update for Windows XP (KB977914)
+Security Update for Windows XP (KB978037)
+Security Update for Windows XP (KB978338)
+Security Update for Windows XP (KB978542)
+Security Update for Windows XP (KB978601)
+Security Update for Windows Media Player (KB978695)
+Security Update for Windows XP (KB978706)
+Security Update for Windows XP (KB979309)
+Security Update for Windows Media Player (KB979402)
+Security Update for Windows XP (KB979482)
+Security Update for Windows XP (KB979559)
+Security Update for Windows XP (KB979683)
+Update for Windows XP (KB980182)
+Security Update for Windows XP (KB980195)
+Security Update for Windows XP (KB980218)
+Security Update for Windows XP (KB980232)
+Security Update for Windows Internet Explorer 8 (KB981332)
+Security Update for Windows XP (KB981350)
+Hotfix for Windows XP (KB981793)
+Security Update for Windows XP (KB982381)
+Security Update for Windows Internet Explorer 8 (KB982381)
+Update for Windows Internet Explorer 8 (KB982632)
+Magical Jelly Bean KeyFinder
+KMP Media Toolbar
+Microsoft .NET Framework 1.1 Security Update (KB979906)
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 3.5 SP1
+Microsoft SQL Server 2000
+Microsoft SQL Server 2000 (OMJ)
+Microsoft SQL Server 2000 (OMJ1206)
+Microsoft SQL Server 2000 (OMKAR)
+Microsoft SQL Server 2005
+Microsoft Visual Basic 2008 Express Edition - ENU
+Microsoft Visual C# 2008 Express Edition - ENU
+Microsoft Visual C++ 2008 Express Edition - ENU
+Microsoft Visual Web Developer 2008 Express Edition - ENU
+MotoGP URT 3
+MotoGP
+Mozilla Firefox (3.6.15)
+MSDN Library for Microsoft Visual Studio 2008 Express Editions
+MSN
+Nero Suite
+Nokia PC Internet Access
+Picasa 3
+Resource Hacker Version 3.6.0
+SearchYa Toolbar  on IE and Chrome
+Shop for HP Supplies
+SpeedBit Video Downloader
+StartNow Toolbar
+The KMPlayer (remove only)
+Unreal Tournament 2004
+Microsoft Visual Studio Web Authoring Component
+VMware Player
+WampServer 2.2
+Microsoft Kernel-Mode Driver Framework Feature Pack 1.7
+Windows Imaging Component
+WinPcap 4.1.1
+WinRAR 4.10 (32-bit)
+Yahoo! Companion
+Yahoo! Search Protection
+Yahoo! Software Update
+Java DB 10.5.3.0
+Microsoft_VC90_ATL_x86
+hpWLPGInstaller
+Microsoft Windows SDK for Visual Studio 2008 Express Tools for Win32
+Microsoft_VC90_CRT_x86
+Flobo Hard Disk Repair 4.1
+Scan
+MarketResearch
+Google Toolbar for Internet Explorer
+Microsoft Visual Web Developer 2008 Express Edition - ENU
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+DeviceDiscovery
+Google Toolbar for Internet Explorer
+Java(TM) 6 Update 18
+Microsoft SQL Server 2005 Tools Express Edition
+PC Connectivity Solution Lite
+Microsoft SQL Server 2005 Express Edition (SQLEXPRESS)
+Microsoft Visual C# 2008 Express Edition - ENU
+Microsoft SQL Server Compact 3.5 Design Tools ENU
+BufferChm
+Java(TM) SE Development Kit 6 Update 18
+WebFldrs XP
+Adobe Community Help
+Apache HTTP Server 2.0.50
+Microsoft Windows SDK for Visual Studio 2008 Express Tools for Web
+DJ_AIO_06_F2400_SW_Min
+WebReg
+Able2Extract 7.0
+Java Auto Updater
+SolutionCenter
+Macromedia Fireworks 8
+Microsoft SQL Server Setup Support Files (English)
+Macromedia Extension Manager
+MSXML 6 Service Pack 2 (KB973686)
+Google Talk Plugin
+Microsoft_VC90_MFC_x86
+GPBaseService2
+S60jarResize
+SmartWebPrinting
+Oracle Data Provider for .NET Help
+HPSSupply
+F2400
+Toolbox
+Nokia PC Internet Access
+HP Update
+Microsoft Visual C++ 2005 Redistributable
+Microsoft Windows SDK for Visual Studio 2008 Headers and Libraries
+Adobe Download Assistant
+MSXML 4.0 SP2 (KB954430)
+Ask Toolbar
+SpeechRedist
+Macromedia Flash Player 8
+Microsoft Silverlight
+Intel(R) Graphics Media Accelerator Driver
+Macromedia Flash 8 Video Encoder
+Microsoft Office Visual Web Developer 2007
+Microsoft Office Visual Web Developer MUI (English) 2007
+Microsoft Office Shared MUI (English) 2007
+Microsoft Office Shared Setup Metadata MUI (English) 2007
+Microsoft Office XP Resource Kit
+Microsoft Office XP Professional with FrontPage
+Macromedia Flash Player 8 Plugin
+32 Bit HP CIO Components Installer
+Adobe Flash Player 10 ActiveX
+Microsoft_VC80_CRT_x86
+VmciSockets
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+Microsoft SQL Server Database Publishing Wizard 1.2
+Microsoft Visual Basic 2008 Express Edition - ENU
+Microsoft .NET Framework 3.0 Service Pack 2
+Google Update Helper
+Adobe Reader 8.1.2
+Status
+Microsoft Windows SDK for Visual Studio 2008 Express Tools for .NET Framework
+Microsoft_VC90_MFCLOC_x86
+Microsoft SQL Server Compact 3.5 ENU
+Destinations
+Adobe Widget Browser
+ISODisk 1.1
+Microsoft .NET Framework 2.0 Service Pack 2
+HPProductAssistant
+hpPrintProjects
+Nokia Connectivity Cable Driver
+Microsoft .NET Framework 1.1
+HP Deskjet F2400 All-In-One Driver Software 13.0 Rel .6
+Microsoft .NET Framework 3.5 SP1
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595)
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB958484)
+Update for Microsoft .NET Framework 3.5 SP1 (KB963707)
+Microsoft Visual C++ 2008 Express Edition - ENU
+Microsoft_VC80_MFC_x86
+Microsoft_VC80_MFCLOC_x86
+TrayApp
+Python 3.2.1rc2
+MSDN Library for Microsoft Visual Studio 2008 Express Editions
+VMware Player
+Microsoft SQL Server VSS Writer
+Max Payne 2
+Oracle Database 10g Express Edition
+Realtek High Definition Audio Driver
+iFinger
+MSXML 4.0 SP2 (KB973688)
+Microsoft SQL Server Native Client
+Copy
+Adobe AIR

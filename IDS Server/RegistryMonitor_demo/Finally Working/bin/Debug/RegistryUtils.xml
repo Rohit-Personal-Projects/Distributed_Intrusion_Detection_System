@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RegistryUtils</name>
+    </assembly>
+    <members>
+        <member name="T:RegistryUtils.RegistryMonitor">
+             public class MonitorSample
+             {
+                 static void Main() 
+                 {
+                     RegistryMonitor monitor = new RegistryMonitor(RegistryHive.CurrentUser, "Environment");
+                     monitor.RegChanged += new EventHandler(OnRegChanged);
+                     monitor.Start();
+            
+                     while(true);
+             
+            			monitor.Stop();
+                 }
+            
+                 private void OnRegChanged(object sender, EventArgs e)
+                 {
+                     Console.WriteLine("registry key has changed");
+                 }
+             }
+        </member>
+        <member name="M:RegistryUtils.RegistryMonitor.OnRegChanged">
+            <summary>
+            Raises the <see cref="E:RegistryUtils.RegistryMonitor.RegChanged"/> event.
+            </summary>
+            <remarks>
+            <p>
+            <b>OnRegChanged</b> is called when the specified registry key has changed.
+            </p>
+            <note type="inheritinfo">
+            When overriding <see cref="M:RegistryUtils.RegistryMonitor.OnRegChanged"/> in a derived class, be sure to call
+            the base class's <see cref="M:RegistryUtils.RegistryMonitor.OnRegChanged"/> method.
+            </note>
+            </remarks>
+        </member>
+        <member name="M:RegistryUtils.RegistryMonitor.OnError(System.Exception)">
+            <summary>
+            Raises the <see cref="E:RegistryUtils.RegistryMonitor.Error"/> event.
+            </summary>
+            <param name="e">The <see cref="T:System.Exception"/> which occured while watching the registry.</param>
+            <remarks>
+            <p>
+            <b>OnError</b> is called when an exception occurs while watching the registry.
+            </p>
+            <note type="inheritinfo">
+            When overriding <see cref="M:RegistryUtils.RegistryMonitor.OnError(System.Exception)"/> in a derived class, be sure to call
+            the base class's <see cref="M:RegistryUtils.RegistryMonitor.OnError(System.Exception)"/> method.
+            </note>
+            </remarks>
+        </member>
+        <member name="E:RegistryUtils.RegistryMonitor.RegChanged">
+            <summary>
+            Occurs when the specified registry key has changed.
+            </summary>
+        </member>
+        <member name="E:RegistryUtils.RegistryMonitor.Error">
+            <summary>
+            Occurs when the access to the registry fails.
+            </summary>
+        </member>
+    </members>
+</doc>

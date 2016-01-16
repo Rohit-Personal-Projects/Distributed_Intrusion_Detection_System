@@ -1,0 +1,50 @@
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitorDemo\bin\Debug\RegistryMonitorDemo.exe
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitorDemo\bin\Debug\RegistryMonitorDemo.pdb
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitorDemo\bin\Debug\RegistryUtils.dll
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitorDemo\bin\Debug\RegistryUtils.pdb
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitorDemo\bin\Debug\RegistryUtils.xml
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitorDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitorDemo\obj\Debug\RegistryMonitorDemo.RegistryMonitorDemoForm.resources
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitorDemo\obj\Debug\RegistryMonitorDemo.csproj.GenerateResource.Cache
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitorDemo\obj\Debug\RegistryMonitorDemo.exe
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\RegistryMonitorDemo\obj\Debug\RegistryMonitorDemo.pdb
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.exe
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.pdb
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryMonitorDemo.exe
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryMonitorDemo.pdb
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryUtils.dll
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryUtils.pdb
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryUtils.xml
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\Finally Working\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.RegistryMonitorDemoForm.resources
+C:\Documents and Settings\OMKAR\Desktop\IDS\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.csproj.GenerateResource.Cache
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.exe
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.pdb
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryMonitorDemo.exe
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryMonitorDemo.pdb
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryUtils.dll
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryUtils.pdb
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryUtils.xml
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.RegistryMonitorDemoForm.resources
+C:\Program Files\Java\jdk1.6.0_18\bin\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.csproj.GenerateResource.Cache
+C:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.exe
+C:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.pdb
+C:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryMonitorDemo.exe
+C:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryMonitorDemo.pdb
+C:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryUtils.dll
+C:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryUtils.pdb
+C:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryUtils.xml
+C:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\ResolveAssemblyReference.cache
+C:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.RegistryMonitorDemoForm.resources
+C:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.csproj.GenerateResource.Cache
+E:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.exe
+E:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.pdb
+E:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryMonitorDemo.exe
+E:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryMonitorDemo.pdb
+E:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryUtils.dll
+E:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryUtils.pdb
+E:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\bin\Debug\RegistryUtils.xml
+E:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\ResolveAssemblyReference.cache
+E:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.RegistryMonitorDemoForm.resources
+E:\IDS final\IDS Server\RegistryMonitor_demo\Finally Working\obj\Debug\RegistryMonitorDemo.csproj.GenerateResource.Cache

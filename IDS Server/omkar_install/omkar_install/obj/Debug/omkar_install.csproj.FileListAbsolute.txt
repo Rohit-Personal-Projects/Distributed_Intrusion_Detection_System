@@ -1,0 +1,8 @@
+E:\IDS final\IDS Server\omkar_install\omkar_install\bin\Debug\SERKAN.THE.MAN.exe
+E:\IDS final\IDS Server\omkar_install\omkar_install\bin\Debug\SERKAN.THE.MAN.pdb
+E:\IDS final\IDS Server\omkar_install\omkar_install\obj\Debug\ResolveAssemblyReference.cache
+E:\IDS final\IDS Server\omkar_install\omkar_install\obj\Debug\SERKAN.THE.MAN.Form1.resources
+E:\IDS final\IDS Server\omkar_install\omkar_install\obj\Debug\SERKAN.THE.MAN.Properties.Resources.resources
+E:\IDS final\IDS Server\omkar_install\omkar_install\obj\Debug\omkar_install.csproj.GenerateResource.Cache
+E:\IDS final\IDS Server\omkar_install\omkar_install\obj\Debug\SERKAN.THE.MAN.exe
+E:\IDS final\IDS Server\omkar_install\omkar_install\obj\Debug\SERKAN.THE.MAN.pdb
