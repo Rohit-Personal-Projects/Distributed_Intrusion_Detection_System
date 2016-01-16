@@ -1,0 +1,63 @@
+
+
+	$$	nv.txt : virus not found : 2012-04-05 16:54:41.519
+
+	$$	v.txt : virus found : 2012-04-05 16:55:04.311
+
+	$$	v.txt : virus found : 2012-04-05 19:54:55.263
+
+	$$	nv.txt : virus not found : 2012-04-06 18:46:56.634
+
+	$$	nv.txt : virus not found : 2012-04-06 18:47:38.582
+
+	$$	v.txt : virus found : 2012-04-13 07:18:57.171
+
+	$$	nv.txt : virus not found : 2012-04-13 07:20:04.953
+
+	$$	p1.txt : virus not found : 2012-04-13 07:20:18.619
+
+	$$	create folders.bat : virus found : 2012-04-13 13:15:24.675
+
+	$$	v.txt : virus found : 2012-04-13 13:20:27.144
+
+	$$	v.txt : virus found : 2012-04-13 13:21:16.676
+
+	$$	nv.txt : virus not found : 2012-04-13 13:57:50.849
+
+	$$	create folders.bat : virus found : 2012-04-13 13:59:07.57
+
+	$$	v.txt : virus found : 2012-04-28 13:21:53.768
+
+	$$	v.txt : virus found : 2012-04-28 13:23:07.322
+
+	$$	v.txt : virus found : 2012-04-28 13:27:43.736
+
+	$$	v.txt : virus found : 2012-04-28 13:29:03.936
+
+	$$	v.txt : virus found : 2012-04-28 13:30:28.129
+
+	$$	nv.txt : virus not found : 2012-04-28 13:30:53.12
+
+	$$	nv.txt : virus not found : 2012-04-28 13:32:44.224
+
+	$$	nv.txt : virus not found : 2012-04-28 13:37:29.392
+
+	$$	nv.txt : virus not found : 2012-04-28 22:11:09.726
+
+	$$	nv.txt : virus not found : 2012-04-28 22:42:40.711
+
+	$$	nv.txt : virus not found : 2012-04-28 22:44:07.852
+
+	$$	nv.txt : virus not found : 2012-04-28 22:55:43.747
+
+	$$	nv.txt : virus not found : 2012-05-04 18:19:54.312
+
+	$$	nv.txt : virus not found : 2012-05-05 11:43:31.833
+
+	$$	nv.txt : virus not found : 2012-05-05 12:26:05.679
+
+	$$	nv.txt : virus not found : 2012-05-05 12:34:39.513
+
+	$$	nv.txt : virus not found : 2012-05-05 14:05:06.705
+
+	$$	v.txt : virus found : 2012-05-05 14:07:05.71

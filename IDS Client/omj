@@ -1,0 +1,7 @@
+/* AUTOMATICALLY GENERATED ON Wed Apr 11 06:58:02 IST 2012*/
+/* DO NOT EDIT */
+
+grant codeBase "file:/C:/Program Files/Java/jdk1.6.0_18/bin/IDS Client/" {
+  permission java.security.AllPermission;
+};
+
